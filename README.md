@@ -30,7 +30,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Azure technologies
+- 🔭 I’m currently working on ... https://github.com/juansasoc/Azure-Project/blob/main/README.md 
 - 🌱 I’m currently learning ... Cybersecurity
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
