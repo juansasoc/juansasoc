@@ -19,7 +19,8 @@ have so far. I look forward to sharing other projects both big and small with th
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... https://github.com/juansasoc/Azure-Project/blob/main/README.md 
+- 🔭 I’m currently working on ... https://github.com/juansasoc/Azure-Project/blob/main/README.md
+-  Coming Soon: Python Web Scraper
 - 🌱 I’m currently learning ... Cybersecurity and generative AI
 - - Up next....... SEED Labs
 
