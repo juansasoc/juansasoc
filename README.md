@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1>Hi, I'm Juan. After a few years of earning certifications, I have decided to shift into showcasing my projects here on Github. Below is what I 
-Have so far. I look forward to sharing other projects both big and small with the Github community. Thanks for stopping by!
+have so far. I look forward to sharing other projects both big and small with the Github community. Thanks for stopping by!
 
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/juansasoc/Azure-Project/blob/main/README.md)
@@ -9,7 +9,7 @@ Have so far. I look forward to sharing other projects both big and small with th
 
 
 
-<h2> 🤳 Connect with me:</h2>
+
 
 
 
