@@ -25,4 +25,4 @@ have so far. I look forward to sharing other projects both big and small with th
 - - Up next....... SEED Labs
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
--->
+  
