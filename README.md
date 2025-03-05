@@ -20,9 +20,7 @@ have so far. I look forward to sharing other projects both big and small with th
 
 
 - 🔭 I’m currently working on ... https://github.com/juansasoc/Azure-Project/blob/main/README.md
--  Coming Soon: Python Web Scraper
-- 🌱 I’m currently learning ... Cybersecurity and generative AI
-- - Up next....... SEED Labs
+  - 🌱 I’m currently finishing the level effect soc100-2 curriculum.
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
   
