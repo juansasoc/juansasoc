@@ -19,7 +19,7 @@ have so far. I look forward to sharing other projects both big and small with th
 
 
 
-- 🔭 I’m currently planning on doing some Iac and DaC projects later this year!
+- 🔭 I’m currently planning on doing some IaC and DaC projects later this year!
  
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
