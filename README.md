@@ -19,8 +19,8 @@ have so far. I look forward to sharing other projects both big and small with th
 
 
 
-- 🔭 I’m currently working on ... https://github.com/juansasoc/Azure-Project/blob/main/README.md
-  - 🌱 I’m currently finishing the level effect soc100-2 curriculum.
+- 🔭 I’m currently planning on doing some Iac and DaC projects later this year!
+ 
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
   
