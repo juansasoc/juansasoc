@@ -13,7 +13,7 @@ have so far. I look forward to sharing other projects both big and small with th
 
 
 
-[linkedin](https://www.linkedin.com/in/juan-rivera-2b434b7b/)
+- [My LinkedIn](https://www.linkedin.com/in/juan-rivera-2b434b7b/)
 
 
 
