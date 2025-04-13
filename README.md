@@ -13,6 +13,8 @@ have so far. I look forward to sharing other projects both big and small with th
 
 
 
+  - [Threat Hunting Scenario: TOR](https://github.com/juansasoc/threat-hunting-scenario-tor)
+
 
     
  - [My LinkedIn](https://www.linkedin.com/in/juan-rivera-2b434b7b/)
