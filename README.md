@@ -23,7 +23,7 @@ have so far. I look forward to sharing other projects both big and small with th
 
 
 - 🔭 I’m currently planning on doing some IaC and DaC projects later this year!
-- :eyes: Also an updated Azure Honeynet 2.0 by Summer 2025!
+- :eyes: Also an updated Azure Honeynet 2.0 by Winter 2025!
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
    
