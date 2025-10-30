@@ -32,7 +32,7 @@
 - [Vulnerability-Management](https://github.com/juansasoc/Vulnerability-Management) — A focused collection of playbooks and analysis workflows for identifying, prioritizing, and mitigating security weaknesses across enterprise environments.
 
 
-- [WindowsEventLog-Analysis](https://github.com/juansasoc/WindowsEventLog-Analysis) — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
+- [WindowsEventLog-Analysis (Azure Honeynet)](https://github.com/juansasoc/WindowsEventLog-Analysis) — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
 
 
 - [My LinkedIn](https://www.linkedin.com/in/juan-rivera-2b434b7b/)
