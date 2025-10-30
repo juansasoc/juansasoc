@@ -2,12 +2,13 @@
 
 <pre>
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  Juan Rivera — Cloud Security & Detection Engineer                         ║
-║  Azure • Threat Hunting • SOC Automation • ELK/KQL                         ║
+║                   Juan Rivera — Cloud Security & Detection Engineer        ║
+║  Azure • AWS • Threat Hunting • SOC Automation • ELK/KQL • AI Red Teaming  ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 </div>
+
 
 
 
