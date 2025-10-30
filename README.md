@@ -12,7 +12,8 @@
 
 - [Threat Hunting Scenario: TOR](https://github.com/juansasoc/threat-hunting-scenario-tor)
 
-- [Vulnerability Management Program Implementation](https://github.com/juansasoc/Vulnerability-Management/blob/main/README.md)
+- [Vulnerability-Management](https://github.com/juansasoc/Vulnerability-Management) — A focused collection of playbooks and analysis workflows for identifying, prioritizing, and mitigating security weaknesses across enterprise environments.
+
 
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion (Azure Honeynet)](https://github.com/juansasoc/Azure-Project/blob/main/README.md)
 
