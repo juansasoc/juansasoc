@@ -1,3 +1,8 @@
+- [![AZ-104 Anki Flashcards](https://raw.githubusercontent.com/juansasoc/AZ-104-Anki-Flashcards/main/media/banner.svg)](https://github.com/juansasoc/AZ-104-Anki-Flashcards)
+
+
+
+
 - [KQL Field Guide](https://github.com/juansasoc/KQL-Field-Guide)  
   A reference of practical KQL queries, hunting techniques, and notes for SOC analysts.
 
