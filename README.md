@@ -1,4 +1,5 @@
-- [![AZ-104 Anki Flashcards](https://raw.githubusercontent.com/juansasoc/AZ-104-Anki-Flashcards/main/media/banner.svg)](https://github.com/juansasoc/AZ-104-Anki-Flashcards)
+- [AZ-104-Anki-Flashcards](https://github.com/juansasoc/AZ-104-Anki-Flashcards) — A complete study companion for the Microsoft Certified: Azure Administrator (AZ-104) exam. Includes domain decks, scenario-based challenges, and mock exams in Anki TSV format for hands-on study and review.
+
 
 
 
