@@ -1,21 +1,21 @@
-- [AZ-104-Anki-Flashcards](https://github.com/juansasoc/AZ-104-Anki-Flashcards) — A complete study companion for the Microsoft Certified: Azure Administrator (AZ-104) exam. Includes domain decks, scenario-based challenges, and mock exams in Anki TSV format for hands-on study and review.
+- [AZ-104-Anki-Flashcards](https://github.com/juansasoc/AZ-104-Anki-Flashcards)  — A complete study companion for the Microsoft Certified: Azure Administrator (AZ-104) exam. Includes domain decks, scenario-based challenges, and mock exams in Anki TSV format for hands-on study and review.
 
 
 
 
 
-- [KQL Field Guide](https://github.com/juansasoc/KQL-Field-Guide)  
-  A reference of practical KQL queries, hunting techniques, and notes for SOC analysts.
+- [KQL Field Guide](https://github.com/juansasoc/KQL-Field-Guide) — A reference of practical KQL queries, hunting techniques, and notes for SOC analysts.
 
-- [Microsoft SC-200 Anki Flashcards](https://github.com/juansasoc/Microsoft-SC-200-Anki-Flashcards)  
-  Flashcards for Microsoft’s SC-200 Security Operations Analyst exam — available in TSV format for Anki.
+- [Microsoft SC-200 Anki Flashcards](https://github.com/juansasoc/Microsoft-SC-200-Anki-Flashcards) — Flashcards for Microsoft’s SC-200 Security Operations Analyst exam — available in TSV format for Anki.
 
-- [Threat Hunting Scenario: TOR](https://github.com/juansasoc/threat-hunting-scenario-tor)
+- [Threat Hunting: TOR-Detection](https://github.com/juansasoc/TOR-Detection) — A focused threat-hunting scenario exploring how to detect and analyze TOR network activity through proxy logs, DNS telemetry, and behavioral indicators.
+
 
 - [Vulnerability-Management](https://github.com/juansasoc/Vulnerability-Management) — A focused collection of playbooks and analysis workflows for identifying, prioritizing, and mitigating security weaknesses across enterprise environments.
 
 
-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion (Azure Honeynet)](https://github.com/juansasoc/Azure-Project/blob/main/README.md)
+- [WindowsEventLog-Analysis](https://github.com/juansasoc/WindowsEventLog-Analysis) — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
+
 
 - [My LinkedIn](https://www.linkedin.com/in/juan-rivera-2b434b7b/)
 
