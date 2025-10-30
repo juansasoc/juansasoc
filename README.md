@@ -1,3 +1,20 @@
+<div align="center">
+
+<pre>
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  Juan Rivera — Cloud Security & Detection Engineer                         ║
+║  Azure • Threat Hunting • SOC Automation • ELK/KQL                         ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+</pre>
+
+</div>
+
+
+
+
+
+
+
 - [AZ-104-Anki-Flashcards](https://github.com/juansasoc/AZ-104-Anki-Flashcards)  — A complete study companion for the Microsoft Certified: Azure Administrator (AZ-104) exam. Includes domain decks, scenario-based challenges, and mock exams in Anki TSV format for hands-on study and review.
 
 
