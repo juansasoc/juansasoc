@@ -13,6 +13,9 @@
 
 
 
+- [AI-Prompting-for-Threat-Hunting](https://github.com/juansasoc/AI-Prompting-for-Threat-Hunting)
+A field guide showing how SOC analysts and detection engineers can use AI prompting to accelerate threat hunting. Includes reusable prompt templates, platform examples (Windows, Azure, AWS, Elastic), and an AI glossary with evaluation checklists.
+
 
 
 
