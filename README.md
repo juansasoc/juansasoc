@@ -25,7 +25,7 @@ A field guide showing how SOC analysts and detection engineers can use AI prompt
 
 
 
-- [KQL Field Guide](https://github.com/juansasoc/KQL-Field-Guide) — A reference of practical KQL queries, hunting techniques, and notes for SOC analysts.
+- [KQL Field Guide](https://github.com/juansasoc/KQL-Field-Guide) — A reference of practical Kusto Query Language (KQL) queries, hunting techniques, and notes for SOC analysts.
 
 - [Microsoft SC-200 Anki Flashcards](https://github.com/juansasoc/Microsoft-SC-200-Anki-Flashcards) — Flashcards for Microsoft’s SC-200 Security Operations Analyst exam — available in TSV format for Anki.
 
