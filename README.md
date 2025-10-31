@@ -10,6 +10,8 @@
 </div>
 
 
+- [AWS-Threat-Hunting-Field-Guide](https://github.com/juansasoc/AWS-Threat-Hunting-Field-Guide)  
+A field guide for threat hunting in AWS environments—includes ES|QL queries, Sigma rules, AI-prompt templates, and a private-ready emerging threats pack for IPFS/Web3 and advanced malware toolkits.  
 
 
 
