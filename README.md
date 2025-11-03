@@ -40,7 +40,8 @@ A field guide showing how SOC analysts and detection engineers can use AI prompt
 - [WindowsEventLog-Analysis (Azure Honeynet)](https://github.com/juansasoc/WindowsEventLog-Analysis) — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
 
 
-- [My LinkedIn](https://www.linkedin.com/in/juan-rivera-2b434b7b/)
+- [My LinkedIn](https://www.linkedin.com/in/juan-rivera-2b434b7b/) - ☁️ Cloud security by day, threat hunting by night — now with a side of AI.
+Building labs so real they almost need incident response.
 
 
 
