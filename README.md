@@ -48,7 +48,7 @@ Building labs so real they almost need incident response.
 
 
 
-- 🔭 Check back for future projects including....  :eyes: an updated Azure Honeynet 2.0 by Winter 2025!
+- 🔭 Check back for future projects
 
 - ⚡ Fun fact: ... I'm a martial artist (Brazililan Jiu Jitsu, Judo)
    
