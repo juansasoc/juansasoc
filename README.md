@@ -37,7 +37,7 @@ A field guide showing how SOC analysts and detection engineers can use AI prompt
 - [Vulnerability-Management](https://github.com/juansasoc/Vulnerability-Management) — A focused collection of playbooks and analysis workflows for identifying, prioritizing, and mitigating security weaknesses across enterprise environments.
 
 
--  [WindowsEventLog-Analysis (Azure Honeynet)](https://github.com/juansasoc/Azure-Project) — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
+-  [Log-Analysis- Azure Honeynet](https://github.com/juansasoc/Azure-Project) — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
  — A deep-dive hunting scenario leveraging Windows Event Logs to uncover persistence, lateral movement, and privilege escalation attempts.
 
 
