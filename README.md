@@ -18,15 +18,6 @@ A field guide for threat hunting in AWS environments—includes ES|QL queries, S
 - [AI-Prompting-for-Threat-Hunting](https://github.com/juansasoc/AI-Prompting-for-Threat-Hunting)
 A field guide showing how SOC analysts and detection engineers can use AI prompting to accelerate threat hunting. Includes reusable prompt templates, platform examples (Windows, Azure, AWS, Elastic), and an AI glossary with evaluation checklists.
 
-
-
-
-- [AZ-104-Anki-Flashcards](https://github.com/juansasoc/AZ-104-Anki-Flashcards)  — A complete study companion for the Microsoft Certified: Azure Administrator (AZ-104) exam. Includes domain decks, scenario-based challenges, and mock exams in Anki TSV format for hands-on study and review.
-
-
-
-
-
 - [KQL Field Guide](https://github.com/juansasoc/KQL-Field-Guide) — A reference of practical Kusto Query Language (KQL) queries, hunting techniques, and notes for SOC analysts.
 
 - [Microsoft SC-200 Anki Flashcards](https://github.com/juansasoc/Microsoft-SC-200-Anki-Flashcards) — Flashcards for Microsoft’s SC-200 Security Operations Analyst exam — available in TSV format for Anki.
